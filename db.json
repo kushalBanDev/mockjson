@@ -2,183 +2,122 @@
    "data":
    [{
   "VendorID": 1,
-  "Vendor Name": "Heritage Commerce Corp",
-  "Sell": "$3.04",
-  "Buy": "$3.02",
-  "Total": "$9.52"
+  "Vendor Name": "Hasbro, Inc.",
+  "Sell": "$9.04",
+  "Buy": "$1.87",
+  "Total": "$0.25"
 }, {
   "VendorID": 2,
-  "Vendor Name": "CVB Financial Corporation",
-  "Sell": "$2.04",
-  "Buy": "$8.59",
-  "Total": "$2.51"
+  "Vendor Name": "TSR, Inc.",
+  "Sell": "$1.29",
+  "Buy": "$7.72",
+  "Total": "$9.71"
 }, {
   "VendorID": 3,
-  "Vendor Name": "Verint Systems Inc.",
-  "Sell": "$7.59",
-  "Buy": "$2.77",
-  "Total": "$2.40"
+  "Vendor Name": "P & F Industries, Inc.",
+  "Sell": "$6.60",
+  "Buy": "$8.93",
+  "Total": "$1.55"
 }, {
   "VendorID": 4,
-  "Vendor Name": "NxStage Medical, Inc.",
-  "Sell": "$6.65",
-  "Buy": "$6.04",
-  "Total": "$5.12"
+  "Vendor Name": "Halyard Health, Inc.",
+  "Sell": "$4.82",
+  "Buy": "$8.23",
+  "Total": "$7.44"
 }, {
   "VendorID": 5,
-  "Vendor Name": "Agrium Inc.",
-  "Sell": "$1.84",
-  "Buy": "$4.69",
-  "Total": "$8.63"
+  "Vendor Name": "Whole Foods Market, Inc.",
+  "Sell": "$2.18",
+  "Buy": "$2.36",
+  "Total": "$5.64"
 }, {
   "VendorID": 6,
-  "Vendor Name": "MetLife, Inc.",
-  "Sell": "$8.80",
-  "Buy": "$2.19",
-  "Total": "$1.32"
+  "Vendor Name": "Brookfield Infrastructure Partners LP",
+  "Sell": "$0.33",
+  "Buy": "$9.92",
+  "Total": "$9.15"
 }, {
   "VendorID": 7,
-  "Vendor Name": "Eaton Vance Floating Rate Income Trust",
-  "Sell": "$5.37",
-  "Buy": "$6.47",
-  "Total": "$3.02"
+  "Vendor Name": "Preferred Apartment Communities, Inc.",
+  "Sell": "$4.11",
+  "Buy": "$1.13",
+  "Total": "$8.03"
 }, {
   "VendorID": 8,
-  "Vendor Name": "Origo Acquisition Corporation",
-  "Sell": "$7.56",
-  "Buy": "$9.77",
-  "Total": "$0.20"
-}, {
-  "VendorID": 9,
-  "Vendor Name": "Cenveo Inc",
-  "Sell": "$9.86",
-  "Buy": "$9.30",
-  "Total": "$4.84"
-}, {
-  "VendorID": 10,
-  "Vendor Name": "Okta, Inc.",
-  "Sell": "$8.43",
-  "Buy": "$5.30",
-  "Total": "$2.71"
-}, {
-  "VendorID": 11,
-  "Vendor Name": "Hartford Financial Services Group, Inc. (The)",
-  "Sell": "$2.72",
-  "Buy": "$1.87",
+  "Vendor Name": "TFS Financial Corporation",
+  "Sell": "$9.27",
+  "Buy": "$7.54",
   "Total": "$3.86"
 }, {
+  "VendorID": 9,
+  "Vendor Name": "ING Group, N.V.",
+  "Sell": "$6.21",
+  "Buy": "$3.70",
+  "Total": "$0.89"
+}, {
+  "VendorID": 10,
+  "Vendor Name": "TransAlta Corporation",
+  "Sell": "$3.69",
+  "Buy": "$9.14",
+  "Total": "$7.55"
+}, {
+  "VendorID": 11,
+  "Vendor Name": "Apollo Endosurgery, Inc.",
+  "Sell": "$3.86",
+  "Buy": "$4.73",
+  "Total": "$7.10"
+}, {
   "VendorID": 12,
-  "Vendor Name": "Middlesex Water Company",
-  "Sell": "$0.07",
-  "Buy": "$1.95",
-  "Total": "$8.05"
+  "Vendor Name": "Abraxas Petroleum Corporation",
+  "Sell": "$7.08",
+  "Buy": "$1.53",
+  "Total": "$5.04"
 }, {
   "VendorID": 13,
-  "Vendor Name": "Modern Media Acquisition Corp.",
-  "Sell": "$9.19",
-  "Buy": "$1.31",
-  "Total": "$0.28"
+  "Vendor Name": "The Gabelli Healthcare & Wellness Trust",
+  "Sell": "$7.11",
+  "Buy": "$9.34",
+  "Total": "$9.48"
 }, {
   "VendorID": 14,
-  "Vendor Name": "Timberland Bancorp, Inc.",
-  "Sell": "$2.55",
-  "Buy": "$1.02",
-  "Total": "$3.94"
+  "Vendor Name": "Toll Brothers Inc.",
+  "Sell": "$4.27",
+  "Buy": "$8.98",
+  "Total": "$7.07"
 }, {
   "VendorID": 15,
-  "Vendor Name": "Pzena Investment Management Inc",
-  "Sell": "$2.27",
-  "Buy": "$5.87",
-  "Total": "$6.99"
+  "Vendor Name": "Park Hotels & Resorts Inc.",
+  "Sell": "$7.98",
+  "Buy": "$1.12",
+  "Total": "$7.99"
 }, {
   "VendorID": 16,
-  "Vendor Name": "Ellie Mae, Inc.",
-  "Sell": "$1.26",
-  "Buy": "$5.25",
-  "Total": "$4.27"
+  "Vendor Name": "Cathay General Bancorp",
+  "Sell": "$4.62",
+  "Buy": "$6.61",
+  "Total": "$4.48"
 }, {
   "VendorID": 17,
-  "Vendor Name": "pSivida Corp.",
-  "Sell": "$4.67",
-  "Buy": "$9.15",
-  "Total": "$6.44"
+  "Vendor Name": "Senior Housing Properties Trust",
+  "Sell": "$2.84",
+  "Buy": "$0.72",
+  "Total": "$8.97"
 }, {
   "VendorID": 18,
-  "Vendor Name": "America Movil, S.A.B. de C.V.",
-  "Sell": "$8.74",
-  "Buy": "$2.92",
-  "Total": "$8.50"
+  "Vendor Name": "Sify Technologies Limited",
+  "Sell": "$3.32",
+  "Buy": "$6.27",
+  "Total": "$0.20"
 }, {
   "VendorID": 19,
-  "Vendor Name": "Caladrius Biosciences, Inc.",
-  "Sell": "$7.59",
-  "Buy": "$9.77",
-  "Total": "$0.17"
+  "Vendor Name": "Marinus Pharmaceuticals, Inc.",
+  "Sell": "$1.57",
+  "Buy": "$5.71",
+  "Total": "$6.82"
 }, {
   "VendorID": 20,
-  "Vendor Name": "QAD Inc.",
-  "Sell": "$6.56",
-  "Buy": "$0.69",
-  "Total": "$6.74"
-}, {
-  "VendorID": 21,
-  "Vendor Name": "Nexeo Solutions, Inc.",
-  "Sell": "$0.21",
-  "Buy": "$9.43",
-  "Total": "$2.48"
-}, {
-  "VendorID": 22,
-  "Vendor Name": "Syros Pharmaceuticals, Inc.",
-  "Sell": "$7.98",
-  "Buy": "$1.76",
-  "Total": "$0.53"
-}, {
-  "VendorID": 23,
-  "Vendor Name": "Syntel, Inc.",
-  "Sell": "$1.29",
-  "Buy": "$2.13",
-  "Total": "$8.23"
-}, {
-  "VendorID": 24,
-  "Vendor Name": "TopBuild Corp.",
-  "Sell": "$6.43",
-  "Buy": "$7.59",
-  "Total": "$9.70"
-}, {
-  "VendorID": 25,
-  "Vendor Name": "El Paso Corporation",
-  "Sell": "$8.91",
-  "Buy": "$9.16",
-  "Total": "$6.37"
-}, {
-  "VendorID": 26,
-  "Vendor Name": "Capital One Financial Corporation",
-  "Sell": "$5.80",
-  "Buy": "$4.50",
-  "Total": "$1.21"
-}, {
-  "VendorID": 27,
-  "Vendor Name": "First Trust Switzerland AlphaDEX Fund",
-  "Sell": "$1.95",
-  "Buy": "$1.69",
-  "Total": "$4.29"
-}, {
-  "VendorID": 28,
-  "Vendor Name": "Patriot Transportation Holding, Inc.",
-  "Sell": "$9.12",
-  "Buy": "$2.75",
-  "Total": "$0.83"
-}, {
-  "VendorID": 29,
-  "Vendor Name": "DASAN Zhone Solutions, Inc.",
-  "Sell": "$7.79",
-  "Buy": "$7.90",
-  "Total": "$5.70"
-}, {
-  "VendorID": 30,
-  "Vendor Name": "Baldwin & Lyons, Inc.",
-  "Sell": "$1.39",
-  "Buy": "$0.26",
-  "Total": "$6.24"
-}]
-}
+  "Vendor Name": "Wolverine World Wide, Inc.",
+  "Sell": "$4.32",
+  "Buy": "$9.53",
+  "Total": "$1.20"
+}]}
